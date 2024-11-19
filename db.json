@@ -1,0 +1,35 @@
+{
+  
+  "energy_report": {
+    "daily_usage": [
+      {
+        "date": "월",
+        "usage": 15.0
+      },
+      {
+        "date": "화",
+        "usage": 4.5
+      },
+      {
+        "date": "수",
+        "usage": 3.8
+      },
+      {
+        "date": "목",
+        "usage": 5.0
+      },
+      {
+        "date": "금",
+        "usage": 2.7
+      },
+      {
+        "date": "토",
+        "usage": 4.0
+      },
+      {
+        "date": "일",
+        "usage": 3.3
+      }
+    ]
+  }
+}
